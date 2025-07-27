@@ -1,7 +1,7 @@
 ## 👋 Oi! Eu sou o Vinícius Ferreira
 
 🎓 Estudante de **Ciência da Computação** na **UFSCar**  
-💻 Aqui você encontra **projetos e experimentos** que desenvolvi ao longo da graduação  
+💻 Aqui coloco vários **projetos** pelos quais me interessei e que implementei durante a graduação :)
 
 
 ---
